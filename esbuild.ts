@@ -30,6 +30,9 @@ build(config)
     copyfiles(['static/*', 'dist'], { all: false }, () => {
       console.log('static files copied successfully!')
     })
+    copyfiles(['package.json', 'dist'], { all: false }, () => {
+      console.log('package.json copied successfully!')
+    })
     if (platform === 'linux' || platform === 'darwin') {
       try {
         exec('chmod +x ./dist/main.js', (err, stdout, stderr) => {

@@ -1,0 +1,13 @@
+{
+  "select_a_branch": "Select a branch",
+  "no_matched_results": "No matched results.",
+  "operation_aborted": "You have aborted the operation.",
+  "found_n_results": "Find {{$0}} branches that match the search criteria.",
+  "press_x_if_you_need_to_abort_operation": "To exit the menu, press '{{$0}}'.",
+  "input_is_needed": "Please enter the search criteria (e.g., gsk <input>, gsk -r <input>).",
+  "this_folder_is_not_a git_repository": "This folder is not a git repository.",
+  "git_checkout_error": "Git checkout error.",
+  "name_your_tracking_branch": "Name your tracking branch.",
+  "you_have_chosen_a_branch_which_is_from_non_origin": "You have chosen a branch which is from non-origin. In this case you have to name the tracking branch manually.",
+  "branch_with_the_same_name_already_exists": "Branch with the same name already exist."
+}

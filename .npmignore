@@ -1,0 +1,15 @@
+.husky
+.vscode
+install/*
+node_modules
+src
+.gitignore
+.prettierrc
+esbuild.ts
+README.md
+tsconfig.json
+commitlint.config.ts
+/locales
+!/dist/locales
+package-lock.json
+package
