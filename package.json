@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mizok/service-template.git"
+    "url": "git+https://github.com/mizok/gseek.git"
   },
   "keywords": [
     "vite",
@@ -26,9 +26,9 @@
   "author": "Mizok",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mizok/service-template/issues"
+    "url": "https://github.com/mizok/gseek/issues"
   },
-  "homepage": "https://github.com/mizok/service-template#readme",
+  "homepage": "https://github.com/mizok/gseek#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.8.1",
     "@commitlint/config-conventional": "^17.8.1",
