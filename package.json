@@ -12,7 +12,7 @@
     "build": "ts-node esbuild.ts",
     "pack": "npm pack --pack-destination=package",
     "tag-beta": "npm version prepatch --preid=beta",
-    "tag": "npm version",
+    "tag": "npm version prepatch",
     "publish-beta": "npm run tag-beta && npm run build && npm publish --tag beta",
     "publish": "npm run tag && npm run build && npm publish"
   },
