@@ -16,7 +16,7 @@ npm i gseek -g
 
 2. `cd package`
 
-3. You will found a <gseek-_._.\*.tgz> file there. Now run `npm i <gseek-*.*.*.tgz name> -g` to install.
+3. There will be a <gseek-_._.\*.tgz> file there. Now run `npm i <gseek-*.*.*.tgz name> -g` to install.
 
 ## Usage
 
